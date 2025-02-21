@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="methods" thread-count="1">
+    <test name="Test">
+        <classes>
+            <class name="com.automation.tests.PlaceOrderTest"/>
+            <class name="com.automation.tests.RegisterUserTest"/>
+            <class name="com.automation.tests.ScrollUpButtonTest"/>
+            <class name="com.automation.tests.SearchProductTest"/>
+        </classes>
+    </test>
+</suite>

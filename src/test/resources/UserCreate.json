@@ -1,0 +1,22 @@
+{
+  "csrfmiddlewaretoken": "",
+  "name": "test name",
+  "email_address": "test email",
+  "password": "password",
+  "days": 18,
+  "months": 11,
+  "years": 2005,
+  "newsletter": 1,
+  "optin": 1,
+  "first_name": "test firstName",
+  "last_name": "test lastName",
+  "company": "test company",
+  "address1": "test address1",
+  "address2":"test address2",
+  "country": "India",
+  "state": "test state",
+  "city": "test city",
+  "zipcode": 56656,
+  "mobile_number": 44545,
+  "form_type": "create_account"
+}
